@@ -7,4 +7,4 @@ Based on  the analysis we came up with insights and suggestions that optimized w
 Empower decision-makers with actionable insights for effective talent retention and strategic HR planning.
 
 pbixlink:https://drive.google.com/file/d/1KpKMirNn0nnAuHN8l7N21EHzOw6V-ym7/view?usp=drivesdk
-pdflink:https://drive.google.com/file/d/1Kk4AeqnxI9Cs0aymtiWAzQGgRx5S4n4X/view?usp=drivesdk
+pdflink:https://drive.google.com/file/d/1KyFB8oNFFOJTYs5nvTAtESmvc3HEcmWH/view?usp=drivesdk
